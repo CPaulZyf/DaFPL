@@ -20,7 +20,7 @@ All experiments have been conducted on the following environment with NVIDIA L40
 
 ## 2. Running Federated Training
 
-To start a  process, you can run:
+To start a  process,  run the following:
 
 ```bash
 python federated_main.py \
